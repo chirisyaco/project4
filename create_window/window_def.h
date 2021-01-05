@@ -1,0 +1,70 @@
+#ifndef _WINDOW_DEF_H
+#define _WINDOW_DEF_H
+
+#define WINDOW_WIDTH 1200
+#define WINDOW_HEIGHT 650
+
+//ウインドウ作成時のオプション
+#define MENU_OPTION 10
+#define ALARM_OPTION 11
+#define TIMER_OPTION 12
+#define LEARNING_OPTION 13
+#define QUESTION_OPTION 14
+#define ENGLISH_1ITEM_OPTION 15
+#define ENGLISH_3ITEM_OPTION 16
+
+#define MATH_BASIC_OPTION 20
+#define MATH_FACTORISE_OPTION 21
+#define MATH_DEFFERENT_OPTION 22
+#define MATH_INTEGRAL_OPTION 23
+#define ENGLISH_PART1_OPTION 30
+#define ENGLISH_PART2_OPTION 31
+#define ENGLISH_PART3_OPTION 32
+#define ENGLISH_PART4_OPTION 33
+#define ENGLISH_PART5_OPTION 34
+#define ENGLISH_PART6_OPTION 35
+#define ENGLISH_PART7_OPTION 36
+#define ENGLISH_WORD_OPTION 37
+
+//ウインドウプロシージャのオプション
+#define MENU_PROC 20
+#define ALARM_PROC 21
+#define TIMER_PROC 22
+#define LEARNING_PROC 23
+#define question_PROC 24
+#define ENGLISH_1ITEM_PROC 25
+#define ENGLISH_3ITEM_PROC 26
+
+#define CORRECT 30 //正解時の戻り値
+#define WRONG 31   //不正解時の戻り値
+
+//ボタンオプション
+#define DECIDE_BUTTON 40
+#define RESET_BUTTON 41
+#define BUTTON_ID0 42
+#define BUTTON_ID1 43
+#define BUTTON_ID2 44
+#define BUTTON_ID3 45
+
+#define BUTTON_ID1A 46
+#define BUTTON_ID1B 47
+#define BUTTON_ID1C 48
+#define BUTTON_ID1D 49
+#define BUTTON_ID2A 50
+#define BUTTON_ID2B 51
+#define BUTTON_ID2C 52
+#define BUTTON_ID2D 53
+#define BUTTON_ID3A 54
+#define BUTTON_ID3B 55
+#define BUTTON_ID3C 56
+#define BUTTON_ID3D 57
+
+// フォントの指定
+HFONT headfont;
+
+//アラームの設定時刻
+SYSTEMTIME set_time;
+
+TCHAR sector[16];
+
+#endif //_WINDOW_DEF_H

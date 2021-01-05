@@ -1,0 +1,3 @@
+C:/Users/chiri/Documents/programing/Software/project4/build/CMakeFiles/edit_cache.dir
+C:/Users/chiri/Documents/programing/Software/project4/build/CMakeFiles/main.dir
+C:/Users/chiri/Documents/programing/Software/project4/build/CMakeFiles/rebuild_cache.dir

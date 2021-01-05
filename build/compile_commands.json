@@ -1,0 +1,67 @@
+[
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\main.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\main.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/main.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\mode_function\\make_question.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\mode_function\\make_question.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/mode_function/make_question.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\mode_function\\set_file.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\mode_function\\set_file.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/mode_function/set_file.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\create_window\\make_window.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\create_window\\make_window.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/create_window/make_window.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\create_window\\init_instance.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\create_window\\init_instance.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/create_window/init_instance.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\create_window\\register_class.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\create_window\\register_class.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/create_window/register_class.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\create_window\\window_procedure\\alarm_procedure.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\create_window\\window_procedure\\alarm_procedure.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/create_window/window_procedure/alarm_procedure.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\create_window\\window_procedure\\learning_procedure.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\create_window\\window_procedure\\learning_procedure.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/create_window/window_procedure/learning_procedure.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\create_window\\window_procedure\\menu_procedure.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\create_window\\window_procedure\\menu_procedure.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/create_window/window_procedure/menu_procedure.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\create_window\\window_procedure\\timer_procedure.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\create_window\\window_procedure\\timer_procedure.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/create_window/window_procedure/timer_procedure.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\create_window\\window_procedure\\eng_1item_procedure.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\create_window\\window_procedure\\eng_1item_procedure.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/create_window/window_procedure/eng_1item_procedure.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\create_window\\window_procedure\\eng_3item_procedure.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\create_window\\window_procedure\\eng_3item_procedure.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/create_window/window_procedure/eng_3item_procedure.c"
+},
+{
+  "directory": "C:/Users/chiri/Documents/programing/Software/project4/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\create_window\\window_procedure\\question_procedure.c.obj -c C:\\Users\\chiri\\Documents\\programing\\Software\\project4\\create_window\\window_procedure\\question_procedure.c",
+  "file": "C:/Users/chiri/Documents/programing/Software/project4/create_window/window_procedure/question_procedure.c"
+}
+]
