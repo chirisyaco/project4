@@ -32,12 +32,6 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPreInst, TCHAR *lpszCmdLine, 
         CLIP_DEFAULT_PRECIS, DEFAULT_QUALITY,
         VARIABLE_PITCH | FF_ROMAN, (LPCTSTR) "メイリオ");
 
-    // mainfont = CreateFont(
-    //     20, 0, 0, 0, FW_REGULAR, FALSE, FALSE, FALSE,
-    //     SHIFTJIS_CHARSET, OUT_DEFAULT_PRECIS,
-    //     CLIP_DEFAULT_PRECIS, DEFAULT_QUALITY,
-    //     VARIABLE_PITCH | FF_ROMAN, (LPCTSTR) "メイリオ");
-
     //メニュー画面で閉じるボタンを押すと終了
     while (TRUE)
     {
